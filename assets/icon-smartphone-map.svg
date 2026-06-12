@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Smartphone body -->
+  <rect x="22" y="14" width="36" height="58" rx="6" fill="#1a2354"/>
+  <!-- Screen -->
+  <rect x="26" y="20" width="28" height="38" rx="2" fill="white"/>
+  <!-- Notch -->
+  <rect x="34" y="17" width="12" height="3" rx="1.5" fill="#d4748c"/>
+  <!-- Home button -->
+  <circle cx="40" cy="64" r="3" fill="#d4748c"/>
+  <!-- App grid on screen -->
+  <rect x="29" y="24" width="10" height="8" rx="2" fill="#1a2354"/>
+  <rect x="41" y="24" width="10" height="8" rx="2" fill="#d4748c"/>
+  <rect x="29" y="35" width="10" height="8" rx="2" fill="#d4748c"/>
+  <rect x="41" y="35" width="10" height="8" rx="2" fill="#1a2354"/>
+  <!-- Location pin -->
+  <ellipse cx="68" cy="62" rx="14" ry="16" fill="#d4748c"/>
+  <ellipse cx="68" cy="58" rx="14" ry="12" fill="#d4748c"/>
+  <path d="M68 70 L62 80 Q68 74 74 80 Z" fill="#d4748c"/>
+  <circle cx="68" cy="58" r="5" fill="#1a2354"/>
+</svg>

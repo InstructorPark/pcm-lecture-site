@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Chat bubble body -->
+  <ellipse cx="42" cy="58" rx="28" ry="22" fill="#1a2354"/>
+  <path d="M28 72 Q22 82 18 86 Q28 80 38 76 Z" fill="#1a2354"/>
+  <!-- Dots inside bubble -->
+  <circle cx="32" cy="58" r="4" fill="#d4748c"/>
+  <circle cx="42" cy="58" r="4" fill="#d4748c"/>
+  <circle cx="52" cy="58" r="4" fill="#d4748c"/>
+  <!-- AI sparkle diamond -->
+  <path d="M72 24 L76 34 L86 38 L76 42 L72 52 L68 42 L58 38 L68 34 Z" fill="#d4748c" stroke="white" stroke-width="1.5"/>
+  <!-- Sparkle rays -->
+  <line x1="72" y1="16" x2="72" y2="20" stroke="#d4748c" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="86" y1="22" x2="83" y2="25" stroke="#d4748c" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="92" y1="36" x2="88" y2="36" stroke="#d4748c" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
